@@ -1,31 +1,31 @@
 <svg height="446" width="720" xmlns="http://www.w3.org/2000/svg">
 <rect height="446" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">  0.  2017-04-19 15:49:21 +0000    48532 bytes  .</tspan>
-<tspan x="10" y="42">  1.  2017-04-19 15:49:21 +0000     1051 bytes  LICENSE</tspan>
-<tspan x="10" y="58">  2.  2017-04-19 15:49:21 +0000     2483 bytes  README.md</tspan>
-<tspan x="10" y="74">  3.  2017-04-19 15:49:21 +0000     5811 bytes  index.js</tspan>
-<tspan x="10" y="90">  4.  2017-04-19 15:49:21 +0000     2939 bytes  package.json</tspan>
-<tspan x="10" y="106">  5.  2017-04-19 15:49:21 +0000      118 bytes  test/expected/customattrs.html</tspan>
-<tspan x="10" y="122">  6.  2017-04-19 15:49:21 +0000     1447 bytes  test/expected/dynamicpaths.html</tspan>
-<tspan x="10" y="138">  7.  2017-04-19 15:49:21 +0000     3623 bytes  test/expected/nested/staticpaths.html</tspan>
-<tspan x="10" y="154">  8.  2017-04-19 15:49:21 +0000       59 bytes  test/expected/nocss.css</tspan>
-<tspan x="10" y="170">  9.  2017-04-19 15:49:21 +0000       32 bytes  test/expected/nojs.html</tspan>
-<tspan x="10" y="186"> 10.  2017-04-19 15:49:21 +0000       44 bytes  test/expected/oldDomainRel.html</tspan>
-<tspan x="10" y="202"> 11.  2017-04-19 15:49:21 +0000      918 bytes  test/expected/removeprefix.html</tspan>
-<tspan x="10" y="218"> 12.  2017-04-19 15:49:21 +0000     3519 bytes  test/expected/staticpaths.html</tspan>
-<tspan x="10" y="234"> 13.  2017-04-19 15:49:21 +0000     3375 bytes  test/expected/templates.js</tspan>
-<tspan x="10" y="250"> 14.  2017-04-19 15:49:21 +0000      905 bytes  test/expected/test.json</tspan>
-<tspan x="10" y="266"> 15.  2017-04-19 15:49:21 +0000      118 bytes  test/fixtures/customattrs.html</tspan>
-<tspan x="10" y="282"> 16.  2017-04-19 15:49:21 +0000     1137 bytes  test/fixtures/dynamicpaths.html</tspan>
-<tspan x="10" y="298"> 17.  2017-04-19 15:49:21 +0000     2528 bytes  test/fixtures/nested/staticpaths.html</tspan>
-<tspan x="10" y="314"> 18.  2017-04-19 15:49:21 +0000       59 bytes  test/fixtures/nocss.css</tspan>
-<tspan x="10" y="330"> 19.  2017-04-19 15:49:21 +0000       32 bytes  test/fixtures/nojs.html</tspan>
-<tspan x="10" y="346"> 20.  2017-04-19 15:49:21 +0000       34 bytes  test/fixtures/oldDomainRel.html</tspan>
-<tspan x="10" y="362"> 21.  2017-04-19 15:49:21 +0000     1174 bytes  test/fixtures/removeprefix.html</tspan>
-<tspan x="10" y="378"> 22.  2017-04-19 15:49:21 +0000     2519 bytes  test/fixtures/staticpaths.html</tspan>
-<tspan x="10" y="394"> 23.  2017-04-19 15:49:21 +0000     3300 bytes  test/fixtures/templates.js</tspan>
-<tspan x="10" y="410"> 24.  2017-04-19 15:49:21 +0000      655 bytes  test/fixtures/test.json</tspan>
-<tspan x="10" y="426"> 25.  2017-04-19 15:49:21 +0000    10652 bytes  test/main.js</tspan>
+<tspan x="10" y="26">  0.  2017-04-19 15:50:27 +0000    48532 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-19 15:50:27 +0000     1051 bytes  LICENSE</tspan>
+<tspan x="10" y="58">  2.  2017-04-19 15:50:27 +0000     2483 bytes  README.md</tspan>
+<tspan x="10" y="74">  3.  2017-04-19 15:50:27 +0000     5811 bytes  index.js</tspan>
+<tspan x="10" y="90">  4.  2017-04-19 15:50:27 +0000     2939 bytes  package.json</tspan>
+<tspan x="10" y="106">  5.  2017-04-19 15:50:27 +0000      118 bytes  test/expected/customattrs.html</tspan>
+<tspan x="10" y="122">  6.  2017-04-19 15:50:27 +0000     1447 bytes  test/expected/dynamicpaths.html</tspan>
+<tspan x="10" y="138">  7.  2017-04-19 15:50:27 +0000     3623 bytes  test/expected/nested/staticpaths.html</tspan>
+<tspan x="10" y="154">  8.  2017-04-19 15:50:27 +0000       59 bytes  test/expected/nocss.css</tspan>
+<tspan x="10" y="170">  9.  2017-04-19 15:50:27 +0000       32 bytes  test/expected/nojs.html</tspan>
+<tspan x="10" y="186"> 10.  2017-04-19 15:50:27 +0000       44 bytes  test/expected/oldDomainRel.html</tspan>
+<tspan x="10" y="202"> 11.  2017-04-19 15:50:27 +0000      918 bytes  test/expected/removeprefix.html</tspan>
+<tspan x="10" y="218"> 12.  2017-04-19 15:50:27 +0000     3519 bytes  test/expected/staticpaths.html</tspan>
+<tspan x="10" y="234"> 13.  2017-04-19 15:50:27 +0000     3375 bytes  test/expected/templates.js</tspan>
+<tspan x="10" y="250"> 14.  2017-04-19 15:50:27 +0000      905 bytes  test/expected/test.json</tspan>
+<tspan x="10" y="266"> 15.  2017-04-19 15:50:27 +0000      118 bytes  test/fixtures/customattrs.html</tspan>
+<tspan x="10" y="282"> 16.  2017-04-19 15:50:27 +0000     1137 bytes  test/fixtures/dynamicpaths.html</tspan>
+<tspan x="10" y="298"> 17.  2017-04-19 15:50:27 +0000     2528 bytes  test/fixtures/nested/staticpaths.html</tspan>
+<tspan x="10" y="314"> 18.  2017-04-19 15:50:27 +0000       59 bytes  test/fixtures/nocss.css</tspan>
+<tspan x="10" y="330"> 19.  2017-04-19 15:50:27 +0000       32 bytes  test/fixtures/nojs.html</tspan>
+<tspan x="10" y="346"> 20.  2017-04-19 15:50:27 +0000       34 bytes  test/fixtures/oldDomainRel.html</tspan>
+<tspan x="10" y="362"> 21.  2017-04-19 15:50:27 +0000     1174 bytes  test/fixtures/removeprefix.html</tspan>
+<tspan x="10" y="378"> 22.  2017-04-19 15:50:27 +0000     2519 bytes  test/fixtures/staticpaths.html</tspan>
+<tspan x="10" y="394"> 23.  2017-04-19 15:50:27 +0000     3300 bytes  test/fixtures/templates.js</tspan>
+<tspan x="10" y="410"> 24.  2017-04-19 15:50:27 +0000      655 bytes  test/fixtures/test.json</tspan>
+<tspan x="10" y="426"> 25.  2017-04-19 15:50:27 +0000    10652 bytes  test/main.js</tspan>
 </text>
 </svg>
